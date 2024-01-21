@@ -1,0 +1,27 @@
+First Name :textbox : only alphabets
+last name  :textbox : : only alphabets
+date of birth:date: : above 18 years
+gender : radio : no default select, male, female
+contact no :textbox : 10 number only
+email : email : @gmail or @outlook
+hobbies : checkbox : multiple : any 3
+	indoor 
+	outdoor
+	music
+	reading
+	travelling
+information : 
+	input : this     is    pEn
+	output : This Is Pen
+	
+input : search : 
+	first name
+	last name
+	email	
+	
+		kishan
+		sha
+	
+remove record from local storage : 
+
+select within local storage
